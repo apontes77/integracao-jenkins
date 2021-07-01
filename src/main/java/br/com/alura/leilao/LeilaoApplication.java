@@ -7,7 +7,6 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 public class LeilaoApplication {
 
 	public static void main(String[] args) {
-		System.out.println("oi!!");
 		SpringApplication.run(LeilaoApplication.class, args);
 	}
 
